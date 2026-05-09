@@ -5,6 +5,8 @@ Feel free to contribute!
 ## Applications & Services
 
 - ~~**Simply Plural**~~: [Discontinued](https://apparyllis.com/simply-plural-will-be-discontinued/)
+- [Ampersand App](https://ampersand.moe/): Offline and privacy focused Member management, front tracking, journaling
+- [Ourcana](https://ourcana.space): Member management, front tracking, journaling (local storage with sync to PluralKit)
 - [Octocon App](https://octocon.app/): Member management, front tracking, journaling
 - [plural.host](https://plural.host): Member management, front tracking (uses  BlueSky's [AT Protocol](https://atproto.com/))
 - **Discord Bots**

@@ -6,6 +6,7 @@ Feel free to contribute!
 
 - ~~**Simply Plural**~~: [Discontinued](https://apparyllis.com/simply-plural-will-be-discontinued/)
 - [Octocon App](https://octocon.app/): Member management, front tracking, journaling
+- [plural.host](https://plural.host): Member management, front tracking (uses  BlueSky's [AT Protocol](https://atproto.com/))
 - **Discord Bots**
   - [PluralKit](https://pluralkit.me/): Member management, message proxying, front tracking
   - [/plu/ral](https://plural.gg/): PluralKit alternative with slash commands

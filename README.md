@@ -2,18 +2,24 @@
 
 Feel free to contribute!
 
-## Applications & Services
+## System Management
 
 - ~~**Simply Plural**~~: [Discontinued](https://apparyllis.com/simply-plural-will-be-discontinued/)
 - [Ampersand App](https://ampersand.moe/): Offline and privacy focused Member management, front tracking, journaling
 - [Ourcana](https://ourcana.space): Member management, front tracking, journaling (local storage with sync to PluralKit)
 - [Octocon App](https://octocon.app/): Member management, front tracking, journaling
 - [plural.host](https://plural.host): Member management, front tracking (uses  BlueSky's [AT Protocol](https://atproto.com/))
-- **Discord Bots**
-  - [PluralKit](https://pluralkit.me/): Member management, message proxying, front tracking
-  - [/plu/ral](https://plural.gg/): PluralKit alternative with slash commands
-  - [~~Octocon Bot~~](https://octocon.app/docs/discord/getting-started): Discontinued, but still works.
-  - [Tupperbox](https://tupperbox.app/): Message proxying (historically majorly used for roleplaying rather than plurality)
+
+## Discord Bots
+
+- [PluralKit](https://pluralkit.me/): Member management, message proxying, front tracking
+- [/plu/ral](https://plural.gg/): PluralKit alternative with slash commands
+- [~~Octocon Bot~~](https://octocon.app/docs/discord/getting-started): Discontinued, but still works.
+- [Tupperbox](https://tupperbox.app/): Message proxying (historically majorly used for roleplaying rather than plurality)
+
+## Misc Tools
+
+- [nv.y2k.diy](https://nv.y2k.diy): Tool for nonverbal communication
 
 ## Information Sources
 

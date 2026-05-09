@@ -25,7 +25,7 @@ Feel free to contribute!
 
 - [morethanone.info](https://morethanone.info/): Plurality 101, short explanations
 - [Pluralpedia](https://pluralpedia.org/w/Main_Page): Collaborative plurality wiki/dictionary
-- [sys.guide](https://sys.guide/): A System's Guide to Plurality; author talks about lived experience
+- [sys.guide](https://sys.guide/): A System's Guide to Plurality; authors talk about lived experiences
 - [plurality.systems](https://plurality.systems/): The Constant Companions Handbook - guide to new plural systems/people questioning if they're plural
 - [Building your Headspace](https://building-headspace.carrd.co/): Some tips for building/accessing a headspace
 - [Power to the Plurals](https://powertotheplurals.com/articles/): Resources about DID/OSDD
